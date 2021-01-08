@@ -856,6 +856,7 @@
 			baseConfigurationReference = ECC1DB1A18CA291B008C7DEA /* StaticLibrary.xcconfig */;
 			buildSettings = {
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = pop;
 				SDKROOT = iphoneos;
 				TVOS_DEPLOYMENT_TARGET = 12.0;
